@@ -1,1 +1,5 @@
 # CSC3034_Fuzzy_SDG
+
+This design will allow the user to choose the level of intake they want for calories, protein, and fiber. Then it will output the suitability of each food based on the combination of input from the user. This can help people to have a more balanced diet to strengthen our body against diseases, which helps in
+achieving SDG Target 3.4. Since most people uses linguistic descriptions when discussing meal choices, it is important to use fuzzy logic to explain the suitability of meal choices. Different people have different financial or geological situations, so in the future artificial neural networks could be used to
+adapt the values of the design to suit each unique situation. A healthy body can help improve a person’s ability to learn and participate in economic life. Thus, this design can also indirectly help in achieving SDG goal 6, decent work and economic growth.
